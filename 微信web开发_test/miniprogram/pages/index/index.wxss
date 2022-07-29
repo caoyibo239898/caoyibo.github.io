@@ -1,0 +1,33 @@
+.cover {
+  background-color: skyblue;
+  text-align: center;
+  padding: 80rpx;
+}
+.logo {
+  width: 160rpx;
+  height: 160rpx;
+}
+.title {
+  font-weight: 500;
+  color: #000000;
+  font-size: 44rpx;
+  margin: 50rpx 32rpx;
+}
+.desc{
+  font-size: 30rpx;
+  color: #888888;
+  margin-left:32rpx ;
+}
+.choose {
+  margin: 80rpx auto;
+}
+.join{
+  width: 400rpx;
+  height: 100rpx;
+  color:#fff;
+  background-color: rgb(26, 180, 34);
+  margin: 20px auto;
+  line-height: 100rpx;
+  text-align: center;
+  border-radius:10rpx ;
+}
